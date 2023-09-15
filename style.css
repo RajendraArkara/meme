@@ -1,0 +1,69 @@
+*{
+    background-color: black;
+}
+
+/* .container{
+    margin-top: 3%;
+}
+
+.pic-border{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pic-border img{
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    width: 50%;
+}
+
+
+#text{
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 150%;
+    text-transform: uppercase;
+    align-items: center;
+    font-size: 3rem;
+}
+
+#text2{
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+} */
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3.5rem;
+    /*Ketika Anda mengatur white-space ke nowrap, ini akan mengabaikan pemisah baris dan memaksa teks tetap dalam satu baris, nanti ubah 
+    font sizenya ke 4rem*/
+    /* white-space: nowrap; */
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 5%;
+
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
